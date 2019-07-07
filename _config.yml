@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "JHub"
 title_separator          : "-"
 name                     : "SCPJaehyeon"
-description              : "An amazing website."
+description              : "My Blog"
 url                      : "https://SCPJaehyeon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaehyeon Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Information Security Student"
+  location         : "Seoul"
+  email            : "jehyun9027@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
