@@ -1,22 +1,43 @@
 ---
-title: "Welcome to My Blog!"
+title: "I'M"
 date: 2019-07-07 15:16:28 -0400
 categories: SCPJaehyeon update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Jaehyeon Cho
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### > Profile
 
-Jekyll also offers powerful support for code snippets:
+- Nick Name : S@YN0T
+- Affiliation : Joongbu University Student, KUCIS SCP, Best Of the Best 8th
+- Location : Seoul, Republic of Korea
+- Email : jehyun9027@gmail.com
+- An Area of Interest : Network Programming
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://
-[jekyll-gh]:   https://
-[jekyll-talk]: https://
+### > Links
+
+| Site                |             Links              |
+| :------------------ | :----------------------------: |
+| Github              | https://github.com/SCPJaehyeon |
+| Tistory (Working..) |  https://saynot.tistory.com/   |
+
+------
+
+### > Experiences
+
+- [Joongbu University] Information Security - Student (2016~)
+
+- [Soongsil Highschool] P.C.L club - Founder
+
+- 3rd Soongsil Highschool CTF - Operator, Developer
+
+- [Korea University Clubs Information Security] S.C.P club - Member
+
+- [Korea Information Technology Research Institute] Best of the Best 8th - Member
+
+  
+
+### > Project
+
+- ARP Spoofing In Mobile (2019~)
