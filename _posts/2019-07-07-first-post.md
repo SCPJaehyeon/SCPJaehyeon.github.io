@@ -3,12 +3,16 @@ title: "I'M"
 date: 2019-07-07 15:16:28 -0400
 categories: SCPJaehyeon update
 ---
+---
+
+---
+
 # Jaehyeon Cho
 
 ### > Profile
 
 - Nick Name : S@YN0T
-- Affiliation : Joongbu University Student, KUCIS SCP, Best Of the Best 8th
+- Affiliation : Joongbu University
 - Location : Seoul, Republic of Korea
 - Email : jehyun9027@gmail.com
 - An Area of Interest : Network Programming
@@ -26,15 +30,15 @@ categories: SCPJaehyeon update
 
 ### > Experiences
 
-- [Joongbu University] Information Security - Student (2016~)
+- [Joongbu University] Information Security - Student
 
 - [Soongsil Highschool] P.C.L club - Founder
 
 - 3rd Soongsil Highschool CTF - Operator, Developer
 
-- [Korea University Clubs Information Security] S.C.P club - Member
+- [KUCIS] S.C.P club - Member
 
-- [Korea Information Technology Research Institute] Best of the Best 8th - Member
+- [KITRI] Best of the Best 8th - Member
 
   
 
