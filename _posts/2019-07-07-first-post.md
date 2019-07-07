@@ -19,8 +19,8 @@ categories: SCPJaehyeon update
 
 | Site                |             Links              |
 | :------------------ | :----------------------------: |
-| Github              | https://github.com/SCPJaehyeon |
-| Tistory (Working..) |  https://saynot.tistory.com/   |
+| Github              | [https://github.com/SCPJaehyeon](https://github.com/SCPJaehyeon) |
+| Tistory (Working..) |  [https://saynot.tistory.com/](https://saynot.tistory.com/)   |
 
 ------
 
