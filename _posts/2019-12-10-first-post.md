@@ -21,6 +21,7 @@ categories: SCPJaehyeon update
 | :------------------ | :----------------------------: |
 | Github              | [https://github.com/SCPJaehyeon](https://github.com/SCPJaehyeon) |
 | Tistory (Working..) |  [https://saynot.tistory.com/](https://saynot.tistory.com/)   |
+| Facebook (Operator) | [https://www.facebook.com/HakSec.Story/](https://www.facebook.com/HakSec.Story/) |
 
 ------
 
@@ -34,6 +35,7 @@ categories: SCPJaehyeon update
 
 ### > Conference
 
+- Hacking Camp 11th
 - Codegate 2014
 - Codegate 2019
 - Samsung SDS Techtonic 2019
