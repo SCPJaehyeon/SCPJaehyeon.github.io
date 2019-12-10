@@ -11,7 +11,7 @@ categories: SCPJaehyeon update
 - Affiliation : Joongbu University
 - Location : Seoul, Republic of Korea
 - Email : jehyun9027@gmail.com
-- An Area of Interest : C++, Forensic, AI, Network
+- An Area of Interest : Programming(C++, Python), Forensic, AI, Network
 
 
 
