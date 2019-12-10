@@ -27,16 +27,13 @@ categories: SCPJaehyeon update
 ### > Experiences
 
 - [Joongbu University] Information Security - Student
-
 - [Soongsil Highschool] P.C.L club - Founder
-
 - 3rd Soongsil Highschool CTF - Operator, Developer
-
 - [KUCIS] S.C.P club - Member
-
 - [KITRI] Best of the Best 8th - Member
 
 ### > Conference
+
 - Codegate 2014
 - Codegate 2019
 - Samsung SDS Techtonic 2019
@@ -45,12 +42,15 @@ categories: SCPJaehyeon update
 - KDFS-W'19
 
 ### > Speaker
+
 - [KUCIS] 2019 KUCIS Seminar(서경강 권역) Speaker
 
 ### > Awards
+
 - [Korea Copyright Protection Agency] 2019 Digital Forensics Contest - Excellence Award
 
 ### > Paper
+
 - Classification of Non-Signature Multimedia Data Fragment File Types With Byte Averaging Gray-Scale
 - A Study on the File Type Classification of Data Fragment Using CNN and Byte Average
 
