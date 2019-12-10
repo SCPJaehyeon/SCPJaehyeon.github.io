@@ -51,10 +51,8 @@ categories: SCPJaehyeon update
 
 ### > Paper
 
-- Classification of Non-Signature Multimedia Data Fragment File Types With Byte Averaging Gray-Scale, 2019
-> 2019 Digital Forensics Contest
-- A Study on the File Type Classification of Data Fragment Using CNN and Byte Average, 2019
-> CISC-W'19
+- Classification of Non-Signature Multimedia Data Fragment File Types With Byte Averaging Gray-Scale > 2019 Digital Forensics Contest
+- A Study on the File Type Classification of Data Fragment Using CNN and Byte Average > CISC-W'19(Accept)
 
 ### > Project
 
