@@ -38,8 +38,8 @@ categories: SCPJaehyeon update
 - Codegate 2019
 - Samsung SDS Techtonic 2019
 - Digital Forensics Research Forum Workshop 2019
-- CISC-W'19
-- KDFS-W'19
+- CISC-W'19 > For paper presentation
+- KDFS-W'19 > For project presentation
 
 ### > Speaker
 
