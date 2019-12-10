@@ -1,6 +1,6 @@
 ---
 title: "I'M"
-date: 2019-07-07 15:16:28 -0400
+date: 2019-12-10 19:54:28 -0400
 categories: SCPJaehyeon update
 ---
 # Jaehyeon Cho
@@ -36,8 +36,26 @@ categories: SCPJaehyeon update
 
 - [KITRI] Best of the Best 8th - Member
 
-  
+### > Conference
+- Codegate 2014
+- Codegate 2019
+- Samsung SDS Techtonic 2019
+- Digital Forensics Research Forum Workshop 2019
+- CISC-W'19
+- KDFS-W'19
+
+### > Speaker
+- [KUCIS] 2019 KUCIS Seminar(서경강 권역) Speaker
+
+### > Awards
+- [Korea Copyright Protection Agency] 2019 Digital Forensics Contest - Excellence Award
+
+### > Paper
+- Classification of Non-Signature Multimedia Data Fragment File Types With Byte Averaging Gray-Scale
+- A Study on the File Type Classification of Data Fragment Using CNN and Byte Average
 
 ### > Project
 
-- ARP Spoofing In Mobile (2019~)
+- [NETWORK] ARP Spoofing In Mobile (2019.04 ~ 2019.07)
+- [NETWORK] ARP Spoofing In IoT (2019.09 ~)
+- [FORENSIC, AI] Classification of Non-Signature Data Fragment File Types With Byte Averaging Gray-Scale (2019.09 ~ 2019.12)
