@@ -50,6 +50,7 @@ categories: SCPJaehyeon update
 ### > Awards
 
 - [Korea Copyright Protection Agency] 2019 Digital Forensics Contest - [Excellence Award](https://www.boannews.com/media/view.asp?idx=85186&kind=)
+
 ### > Paper
 
 - Classification of Non-Signature Multimedia Data Fragment File Types With Byte Averaging Gray-Scale > 2019 Digital Forensics Contest(Excellence Award)
